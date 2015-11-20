@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Board\r\n
+comment1.params=
+comment1.target=void\ print()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment10.params=
+comment10.target=boolean\ allSunk()
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=inChoice
+comment3.target=void\ move(int)
+comment4.params=inX\ inY\ inDir\ inLength
+comment4.target=boolean\ check(int,\ int,\ int,\ int)
+comment5.params=inMarker\ inDir\ inLength\ inX\ inY
+comment5.target=void\ placeShip(java.lang.String,\ int,\ int,\ int,\ int)
+comment6.params=x\ y
+comment6.target=java.lang.String\ getType(int,\ int)
+comment7.params=inType\ inX\ inY
+comment7.target=void\ hit(java.lang.String,\ int,\ int)
+comment8.params=inShip
+comment8.target=boolean\ placed(int)
+comment9.params=inX\ inY\ inMark
+comment9.target=void\ xPlode(int,\ int,\ java.lang.String)
+numComments=11

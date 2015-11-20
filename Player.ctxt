@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=inName\ inBoard\ inBoard2\ inGuessBoard
+comment0.target=Player(java.lang.String,\ Board,\ Board,\ Board)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment1.params=
+comment1.target=void\ setup()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=void\ move()
+comment3.params=inShip
+comment3.target=void\ hurtShip(Ship)
+comment4.params=
+comment4.target=boolean\ dead()
+comment5.params=
+comment5.target=void\ pressAnyKeyToContinue()
+numComments=6

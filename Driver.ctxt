@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ noPeeking()
+comment2.params=
+comment2.target=void\ pressAnyKeyToContinue()
+comment3.params=inP1\ inP2\ inPlayer1\ inPlayer2
+comment3.target=void\ endSequence(java.lang.String,\ java.lang.String,\ Player,\ Player)
+comment4.params=
+comment4.target=void\ scroll()
+numComments=5

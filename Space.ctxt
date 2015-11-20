@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=inMarker\ inTeam
+comment0.target=Space(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Space\r\n
+comment1.params=
+comment1.target=void\ killSpace()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getSpace()
+comment3.params=
+comment3.target=java.lang.String\ print()
+comment4.params=inMarker
+comment4.target=void\ change(java.lang.String)
+numComments=5
