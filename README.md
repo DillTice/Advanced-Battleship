@@ -1,8 +1,3 @@
-#This is the project README file. Here, you should describe your project.
-#Tell the reader (someone who does not know anything about this project) all he/she needs to know. The comments should usually include at least:
--PROJECT TITLE:
--PURPOSE OF PROJECT:
--VERSION or DATE:
--HOW TO START THIS PROJECT:
--AUTHORS:
--USER INSTRUCTIONS:
+#Advanced Battleship
+<h3>An implementation of BattleShip in Java</h3>
+<p> This repo features a very simple BattleShip game made as a class project in CSCI 132 </p>
